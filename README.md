@@ -1,6 +1,6 @@
 # Problem-Solving
-Daftar tugas yang diselesaikan:
-|No|Problem yang diselesaikan|Branch|
+
+|No|Problem Solved |Branch|
 |---|------------------------|------|
 | 1 | Membuat Lingkaran | `Branch-1`|
 | 2 | Membuat Lingkaran ke suatu arah dengan kecepatan konstan| `Branch-2`|
