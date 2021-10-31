@@ -11,4 +11,4 @@
 | 7 | Lingkaran menabrak kotak dan terhitung sebagai poin | `Branch-7`|
 | 8 | Munculkan lagi kotak yang sudah tertabrak, 3 detik setelah tertabrak dan di posisi acak | `Branch-8` |
 | 9 | Mengembangkan Game yang dibuat | `Branch-9` |
-|10 | Buat satu build berisi menu selection untuk mengakses semua scene. | `Branch-10` |
+|10 | Buat satu build berisi menu selection untuk mengakses semua scene. | `main` |
